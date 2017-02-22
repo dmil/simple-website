@@ -1,0 +1,33 @@
+p {
+    color: black;
+    width: 400px;
+    float:left;
+    padding: 15px;
+}
+
+#profilepic {
+  float:left;
+  width: 130px;
+  padding: 15px;
+}
+
+html {
+  background-color: #6E86D6;
+}
+
+body {
+  width: 600px;
+  height: 300px;
+  margin: 0 auto;
+  background-color: #D3D3D3;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+  margin-top:25px;
+
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+}
