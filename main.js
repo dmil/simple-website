@@ -1,5 +1,5 @@
 function sayOuch() {
-    alert("Ouch, that hurt! Don't Poke Me")
+    alert("Ouch, that hurts!Please Don't Poke Me")
 }
 
 var myImage = document.querySelector('#profilepic');
