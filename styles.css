@@ -1,5 +1,5 @@
 p {
-    color: black;
+    color: red;
     width: 400px;
     float:left;
 }
@@ -17,14 +17,14 @@ p.nearimage {
 }
 
 html {
-  background-color: grey;
+  background-color: white;
 }
 
 body {
   width: 500px;
   height: 1300px;
   margin: 0 auto;
-  background-color: #D3D3D3;
+  background-color: yellow;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
   margin-top:25px;
@@ -34,7 +34,7 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: black;
 }
 
 
